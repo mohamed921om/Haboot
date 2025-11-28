@@ -1,0 +1,5 @@
+{
+  "name": "HabitPulse",
+  "description": "A beautiful, offline-first habit tracker with analytics, heatmap, and customizable routines.",
+  "requestFramePermissions": []
+}
